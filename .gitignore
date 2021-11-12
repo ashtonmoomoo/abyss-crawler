@@ -1,0 +1,5 @@
+# Yuck
+.DS_Store
+
+# No point tracking these
+*.gp
